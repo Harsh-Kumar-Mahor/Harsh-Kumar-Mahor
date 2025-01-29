@@ -2,8 +2,7 @@
 
 Welcome to my GitHub page!  
 **I'm Harsh Kumar Mahor, a data enthusiast who loves working with data!**  
-Currently pursuing **BTech in Computer Science and Engineering with a specialization in AI & ML at IIIT Kota**,  
-I enjoy uncovering insights from data and transforming raw information into meaningful stories.
+Currently pursuing **BTech in Computer Science and Engineering with a specialization in AI & ML at IIIT Kota**, and I enjoy uncovering insights from data and transforming raw information into meaningful stories.
 
 
 🌍 **Location**: Mumbai, Maharashtra India 🇮🇳  
