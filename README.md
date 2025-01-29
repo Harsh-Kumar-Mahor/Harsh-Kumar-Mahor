@@ -1,8 +1,10 @@
 # 👋 Hey! Nice to see you.
 
 Welcome to my GitHub page!  
-I'm **Harsh Kumar Mahor**, a **Data Analyst | Developer** passionate about **Data Science, SQL, Python, and Data visualization tools**.  
-Currently pursuing **BTech in Computer Science and Engineering with specialization in AI & ML at IIIT Kota**.  
+**I'm Harsh Kumar Mahor, a data enthusiast who loves working with data!**  
+Currently pursuing **BTech in Computer Science and Engineering with a specialization in AI & ML at IIIT Kota**,  
+I have a strong passion for **Data Science, SQL, Python, and Data Visualization tools**.  
+I enjoy uncovering insights from data and transforming raw information into meaningful stories.
 
 
 🌍 **Location**: Mumbai, Maharashtra India 🇮🇳  
