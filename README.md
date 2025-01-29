@@ -35,7 +35,7 @@ I enjoy uncovering insights from data and transforming raw information into mean
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?logo=microsoftoffice&logoColor=white&style=for-the-badge)
 
 ## 💻 Coding Profile
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)]([https://leetcode.com/Harsh-Kumar-Mahor](https://leetcode.com/u/HM_10/))
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/HM_10/)
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/harsh-kumar-mahor/)
