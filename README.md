@@ -4,8 +4,10 @@ Welcome to my GitHub page!
 I'm **Harsh Kumar Mahor**, a **Data Analyst | Developer** passionate about **Data Science, SQL, Python, and Data visualization tools**.  
 Currently pursuing **BTech in Computer Science and Engineering with specialization in AI & ML at IIIT Kota**.  
 
-🌍 **Location**: Mumbai, India 🇮🇳  
+
+🌍 **Location**: Mumbai, Maharashtra India 🇮🇳  
 📧 **Email**: harshmahorar@gmail.com  
+
 
 ## 📄 My Resume
 [![Resume](https://img.shields.io/badge/-View%20My%20Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Wk1aO44F0GvFhIXDvhXu1s0-HArlDgby/view?usp=drive_link)
@@ -30,9 +32,8 @@ Currently pursuing **BTech in Computer Science and Engineering with specializati
 ![Google Workspace](https://img.shields.io/badge/-Google%20Workspace-4285F4?logo=google&logoColor=white&style=for-the-badge)
 ![MS Office](https://img.shields.io/badge/-MS%20Office-D83B01?logo=microsoftoffice&logoColor=white&style=for-the-badge)
 
-## 📊 My GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-Kumar-Mahor&theme=dark&hide_border=true)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-Kumar-Mahor&show_icons=true&theme=dark&hide_border=true)
+## 💻 Coding Profile
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)]([https://leetcode.com/Harsh-Kumar-Mahor](https://leetcode.com/u/HM_10/))
 
 ## 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/harsh-kumar-mahor/)
